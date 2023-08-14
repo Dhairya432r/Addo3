@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Addo3/static/css/main.dafa3254.css",
+    "main.js": "/Addo3/static/js/main.adc8f17b.js",
+    "static/js/787.c18e5e2a.chunk.js": "/Addo3/static/js/787.c18e5e2a.chunk.js",
+    "index.html": "/Addo3/index.html",
+    "main.dafa3254.css.map": "/Addo3/static/css/main.dafa3254.css.map",
+    "main.adc8f17b.js.map": "/Addo3/static/js/main.adc8f17b.js.map",
+    "787.c18e5e2a.chunk.js.map": "/Addo3/static/js/787.c18e5e2a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dafa3254.css",
+    "static/js/main.adc8f17b.js"
+  ]
+}
