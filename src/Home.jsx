@@ -7,7 +7,7 @@ const Home = () => {
 
     <div classname="">
         <div>
-        <img src="./assets/images/img2.jpg" className=" mt-20 h-[512px] w-full  fixed " />
+        <img src="./assets/images/img2.jpg" alt="" className=" mt-20 h-[512px] w-full  " />
         </div>
         
         <div className=" border-spacing-x-8 m lg:flex fixed mt-[512px] md:flex sm:inline-block lg:h-32 lg:w-full   justify-evenly align-middle">
@@ -25,6 +25,7 @@ const Home = () => {
       
           </div>
     </div>
+
 </div>
     </>
     )
